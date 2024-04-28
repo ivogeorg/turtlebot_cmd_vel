@@ -1,0 +1,4 @@
+<launch>
+  <!-- Turtlebot Move launch file -->
+  <node pkg="turtlebot_cmd_vel" type="turtlebot_move" name="turtlebot_move_node"  output="screen" />
+</launch>
